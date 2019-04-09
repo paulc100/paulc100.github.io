@@ -1,0 +1,73 @@
+/* index */
+
+.thumbimg {
+    border-radius: 5%;
+}
+
+.round {
+    border-radius: 25px;
+}
+
+.small{
+    width: 30%;
+}
+
+.carousel-caption {
+    left: auto;
+    right: auto;
+}
+
+/* night/day */
+
+.btn:hover {
+    background-color: #717d91;
+}
+
+.night{
+    background: #383e48;
+    color: white;
+}
+.day{
+    background: white;
+    color: #383e48;
+}
+
+.night2{
+    background: #383e48;
+}
+.day2{
+    background: white;
+}
+
+/* nav */
+
+.navbar {
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+/* footer */
+
+footer{
+    background-color: #383e48;
+    font-size: 12px;
+    padding: 10px;
+    text-align:right;
+    color: white;
+    font-style: italic;
+}
+.footer2{
+    background-color: #383e48;
+    font-size: 12px;
+    padding: 10px;
+    text-align:right;
+    color: white;
+    font-style: italic;
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
+
+/* Accounts */
