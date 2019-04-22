@@ -30,7 +30,7 @@ function getGames() {
             <div class="single-blog-content">
                 <div class="line"></div>
                 <h5 class="post-tag">Game</h5>
-                <h4><a href="${doc.data().gamelink}" class="post-headline">${doc.data().gamename}</a></h4>
+                <h4><a href="${doc.data().gamelink}" target="_blank" class="post-headline">${doc.data().gamename}</a></h4>
             <p>${doc.data().gamedesc}</p>
             <div class="post-meta">
                 <p>By <a >${doc.data().gamecreator}</a></p>
